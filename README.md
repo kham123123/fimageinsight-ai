@@ -17,21 +17,6 @@
 ## 📦 Installation
 
 Install using pip from PyPI:
-
-```bash
-pip install imageinsightai
-## 📦 PyPI Package
-
+# imageinsightai
 [![PyPI version](https://badge.fury.io/py/imageinsightai.svg)](https://pypi.org/project/imageinsightai/)
----
-imageinsightai/
-│
-├── imageinsightai/          # Core package
-│   ├── __init__.py
-│   ├── captioner.py         # Main functionality
-│
-├── test_caption.py          # Example usage script
-├── setup.py                 # Packaging metadata
-├── requirements.txt         # List of dependencies
-├── README.md                # You're here!
 
