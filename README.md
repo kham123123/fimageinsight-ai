@@ -16,8 +16,6 @@
 ---
 ## 📦 Installation
 
-Install using pip from PyPI:
-# imageinsightai
 [![PyPI version](https://badge.fury.io/py/imageinsightai.svg)](https://pypi.org/project/imageinsightai/)
 ---
 # imageinsightai
