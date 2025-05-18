@@ -17,7 +17,7 @@
 ## 📦 Installation
 
 [![PyPI version](https://badge.fury.io/py/imageinsightai.svg)](https://pypi.org/project/imageinsightai/)
----
+
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-repo-blue?logo=github)](https://github.com/kham123123/fimageinsight-ai.git)
 
